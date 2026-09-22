@@ -1,0 +1,8 @@
+{
+  "name": "PDF & Word Converter",
+  "description": "Complete client-side PDF & Word document suite: PDF to Word, Word to PDF, Merge PDF, Split PDF, Rotate, Watermark, Organize Pages, PDF to JPG/PNG, and Batch processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
